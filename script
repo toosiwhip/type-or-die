@@ -1,0 +1,2 @@
+local theme = "Midnight" --themes: LightTheme, DarkTheme, GrapeTheme, BloodTheme, Ocean, Midnight, Sentinel, Synapse
+loadstring(game:HttpGet("https://raw.githubusercontent.com/0Void2391/Type-or-Die/main/TypeOrDie.lua"))()
